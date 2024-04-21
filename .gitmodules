@@ -1,0 +1,9 @@
+[submodule "webauthn-store-backend"]
+	path = webauthn-store-backend
+	url = git@github.com:kravetsone/webauthn-store-backend.git
+[submodule "nuclear_t1"]
+	path = nuclear_t1
+	url = https://github.com/hevav/nuclear_t1
+[submodule "webauthn-store-app"]
+	path = webauthn-store-app
+	url = https://github.com/kravetsone/webauthn-store-app
